@@ -10,10 +10,10 @@
  
 > [!TIP]
 > ## Proje İle Alakalı Görseller
-<details>
-<summary>Developer Sistem Görselleri</summary>
-</details>
-<details>
+> <details>
+> <summary>Developer Sistem Görselleri</summary>
+> </details>
+><details>
 <summary>Kayıt Sistem Görselleri</summary>
 </details>
 <details>
