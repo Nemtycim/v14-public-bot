@@ -16,4 +16,4 @@
 
 > [!NOTE]  
 > ## İletişim Bilgilerim
-> [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile/)
+> [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/yourprofile/](https://www.instagram.com/nemtycim/))
