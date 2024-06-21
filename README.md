@@ -6,5 +6,5 @@
 
 > [!WARNING]
 > ## Lisans Bilgisi
-> ` GNU GENERAL PUBLIC LICENSE ` ile lisanslanmıştır!
+> **` GNU GENERAL PUBLIC LICENSE `** ile lisanslanmıştır!
  
