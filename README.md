@@ -10,10 +10,24 @@
  
 > [!TIP]
 > ## Proje İle Alakalı Görseller
-
-
-
-
+<details>
+<summary>Developer Sistem Görselleri</summary>
+</details>
+<details>
+<summary>Kayıt Sistem Görselleri</summary>
+</details>
+<details>
+<summary>Moderasyon Sistem Görselleri</summary>
+</details>
+<details>
+<summary>Yönetim Sistem Görselleri</summary>
+</details>
+<details>
+<summary>Stat Sistem Görselleri</summary>
+</details>
+<details>
+<summary>Yetki Sistem Görselleri</summary>
+</details>
 > [!NOTE]  
 > ## <center>İletişim Bilgilerim</center>
 > [![nemtycim](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nemtycim/)
