@@ -6,7 +6,7 @@
 
 > [!WARNING]
 > ## Lisans Bilgisi
-> **` GNU GENERAL PUBLIC LICENSE (GPL-3.0 license) `** ile lisanslanmıştır!
+> **` GNU GENERAL PUBLIC LICENSE (GPL-3.0) `** ile lisanslanmıştır!
  
 > [!TIP]
 > ## Proje İle Alakalı Görseller
