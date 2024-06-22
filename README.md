@@ -24,7 +24,7 @@
 > </details>
 > <details>
 > <summary>Yetkili Sistem Görselleri</summary>
- <table>
+  <table>
   <thead>
     <th>Komut & Sistem</th>
     <th>Resim</th>
