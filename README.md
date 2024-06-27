@@ -48,6 +48,11 @@
     <td>Kısayol Bot Düzenleme Sistemi</td>
     <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1255085428718178346/image.png?ex=667e7be4&is=667d2a64&hm=5fb2ad6ef6b72be87c25af0493a36e9701b80b823fb38506f6089beadacb80e4&" alt="ai" style="max-width: 100%;"></td>
   </tr>
+ <tr>
+    <td>Koruma Sistemi</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085428952797184/image.png?ex=667e7be4&is=667d2a64&hm=7d360b02e87b8cfd058b77eb4c26e2030458c47fa527c84e349bea525dde6927&=&format=webp&quality=lossless&width=612&height=167" alt="ai" style="max-width: 100%;"></td>
+  </tr>
+ 
 </table>
 
 
