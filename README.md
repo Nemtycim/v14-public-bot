@@ -7,18 +7,18 @@
 > [!WARNING]
 > ## Lisans Bilgisi
 > **` GNU GENERAL PUBLIC LICENSE (GPL-3.0) `** ile lisanslanmıştır!
- 
-# 📸 Görseller
-
-<details>
-<summary>Developer Sistem Görselleri</summary>
- https://cdn.discordapp.com/attachments/1163892206520770700/1255085427551899729/image.png?ex=667e7be4&is=667d2a64&hm=3dc5d782c92694e0373d88ac2d242e11ed6458b791faf59a69784205f7650300&
-</details>
-
-
 
 > [!NOTE]  
 > ## <center>İletişim Bilgilerim</center>
 > [![nemtycim](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nemtycim/)
 > [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/952214954931544164) 
+
+
+
+# 📸 Görseller
+
+<details>
+<summary>Developer Sistem Görselleri</summary>
+
+</details>
 
