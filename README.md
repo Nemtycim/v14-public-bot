@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Sistem 1</td>
-    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085427551899729/image.png?ex=667e7be4&is=667d2a64&hm=3dc5d782c92694e0373d88ac2d242e11ed6458b791faf59a69784205f7650300&=&format=webp&quality=lossless&width=800&height=800" alt="Sistem 1" width="800"></td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085427551899729/image.png?ex=667e7be4&is=667d2a64&hm=3dc5d782c92694e0373d88ac2d242e11ed6458b791faf59a69784205f7650300&=&format=webp&quality=lossless&width=800&height=800" alt="Sistem 1" width="350"></td>
   </tr>
   <tr>
     <td>Sistem 2</td>
