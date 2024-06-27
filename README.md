@@ -17,6 +17,19 @@
 
 # 📸 Görseller
 
-
+<table>
+  <tr>
+    <th>Sistem İsmi</th>
+    <th>Sistem Resmi</th>
+  </tr>
+  <tr>
+    <td>Sistem 1</td>
+    <td><img src="[resim1_url](https://media.discordapp.net/attachments/1163892206520770700/1255085427551899729/image.png?ex=667e7be4&is=667d2a64&hm=3dc5d782c92694e0373d88ac2d242e11ed6458b791faf59a69784205f7650300&=&format=webp&quality=lossless&width=362&height=192)" alt="Sistem 1" width="100"></td>
+  </tr>
+  <tr>
+    <td>Sistem 2</td>
+    <td><img src="resim2_url" alt="Sistem 2" width="100"></td>
+  </tr>
+</table>
 
 
