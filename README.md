@@ -17,26 +17,6 @@
 
 # 📸 Görseller
 
-<details>
-<summary>Developer Sistem Görselleri</summary>
-<table>
-  <thead>
-    <th>Komut & Sistem</th>
-    <th>Resim</th>
-  </thead>
-<tbody>
-  <tr>
-  <td>Setup Sistemi</td>
-  <td>
-<img src="[![image](https://github.com/Nemtycim/v14-public-bot/assets/101521169/986cfdbc-acb6-4f88-9fbb-2c61a1ca5fe0)](https://cdn.discordapp.com/attachments/1163892206520770700/1255085427551899729/image.png?ex=667e7be4&is=667d2a64&hm=3dc5d782c92694e0373d88ac2d242e11ed6458b791faf59a69784205f7650300&)
-" alt="Setup Image" style="max-width: 100%;">
-</td>
-</tr>
-
-  
-</tbody>
-</table>
-</details>
 
 
 
