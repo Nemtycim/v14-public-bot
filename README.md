@@ -17,18 +17,20 @@
 
 # 📸 Görseller
 
+<details>
+<summary>RDeveloper Sistemleri</summary>
 <table>
   <tr>
     <th>Sistem İsmi</th>
     <th>Sistem Resmi</th>
   </tr>
   <tr>
-    <td>Sistem 1</td>
-    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085427551899729/image.png?ex=667e7be4&is=667d2a64&hm=3dc5d782c92694e0373d88ac2d242e11ed6458b791faf59a69784205f7650300&=&format=webp&quality=lossless&width=362&height=192" alt="Shield Image" style="max-width: 100%;"></td>
+    <td>Kurulum Sistemi</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085427551899729/image.png?ex=667e7be4&is=667d2a64&hm=3dc5d782c92694e0373d88ac2d242e11ed6458b791faf59a69784205f7650300&=&format=webp&quality=lossless&width=362&height=192" alt="kurulum" style="max-width: 100%;"></td>
   </tr>
   <tr>
-    <td>Sistem 2</td>
-    <td><img src="resim2_url" alt="Sistem 2" width="100"></td>
+    <td>Yapay Zeka Kayıt Sistemi (Kullanıcının Sunuculardaki Verilerini Çeker)</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085427787038730/image.png?ex=667e7be4&is=667d2a64&hm=eaa29615cbd5bf376f35fd74de7caa9e2105c70d609e7e9371b17352ca9d12e0&=&format=webp&quality=lossless&width=604&height=175" alt="ai" style="max-width: 100%;"></td>
   </tr>
 </table>
 
