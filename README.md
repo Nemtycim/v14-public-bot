@@ -18,7 +18,7 @@
 # 📸 Görseller
 
 <details>
-<summary>RDeveloper Sistemleri</summary>
+<summary>Developer Sistemleri</summary>
 <table>
   <tr>
     <th>Sistem İsmi</th>
@@ -31,6 +31,22 @@
   <tr>
     <td>Yapay Zeka Kayıt Sistemi (Kullanıcının Sunuculardaki Verilerini Çeker)</td>
     <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085427787038730/image.png?ex=667e7be4&is=667d2a64&hm=eaa29615cbd5bf376f35fd74de7caa9e2105c70d609e7e9371b17352ca9d12e0&=&format=webp&quality=lossless&width=604&height=175" alt="ai" style="max-width: 100%;"></td>
+  </tr>
+   <tr>
+    <td>Kısayol Yardım Sistemi</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085428005011498/image.png?ex=667e7be4&is=667d2a64&hm=69102acfe95a37d7b6dae1a76c8a01a339f5c5a3a91a84557b8a99e31dfe9eaa&=&format=webp&quality=lossless&width=492&height=112" alt="ai" style="max-width: 100%;"></td>
+  </tr>
+  <tr>
+    <td>Kullanıcı Panel Sistemi</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085428244090890/image.png?ex=667e7be4&is=667d2a64&hm=7e9eadbdfbcb1f2ad6f12f83cbc3f1a7598a5f6e3e3b609335fc6706443f9d06&=&format=webp&quality=lossless&width=454&height=318" alt="ai" style="max-width: 100%;"></td>
+  </tr>
+  <tr>
+    <td>Ceza Panel Sistemi</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085428491681812/image.png?ex=667e7be4&is=667d2a64&hm=c87503c475eb2c9d05404ce54b930d24044bcf6a938acdfc9fbbfe582d01659e&=&format=webp&quality=lossless&width=772&height=101" alt="ai" style="max-width: 100%;"></td>
+  </tr>
+  <tr>
+    <td>Kısayol Bot Düzenleme Sistemi</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085428718178346/image.png?ex=667e7be4&is=667d2a64&hm=5fb2ad6ef6b72be87c25af0493a36e9701b80b823fb38506f6089beadacb80e4&=&format=webp&quality=lossless&width=604&height=78" alt="ai" style="max-width: 100%;"></td>
   </tr>
 </table>
 
