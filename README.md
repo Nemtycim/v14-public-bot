@@ -52,7 +52,22 @@
     <td>Koruma Sistemi</td>
     <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085428952797184/image.png?ex=667e7be4&is=667d2a64&hm=7d360b02e87b8cfd058b77eb4c26e2030458c47fa527c84e349bea525dde6927&=&format=webp&quality=lossless&width=612&height=167" alt="ai" style="max-width: 100%;"></td>
   </tr>
- 
+  <tr>
+    <td>Liderlik Tablosu Sistemi</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085429187674132/image.png?ex=667e7be4&is=667d2a64&hm=c0bd2cbc574d8361b4434c5c867c205210b3adc8a21f0428d1547e12a90cab4e&=&format=webp&quality=lossless&width=814&height=235" alt="ai" style="max-width: 100%;"></td>
+  </tr>
+  <tr>
+    <td>Güvenilir Sistemi 1</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085429418364980/image.png?ex=667e7be4&is=667d2a64&hm=d68b4402c9f5447c7ab829b90b6b580f453c31bb6939bb6febc76ab91a99d06f&=&format=webp&quality=lossless&width=442&height=67" alt="ai" style="max-width: 100%;"></td>
+  </tr>
+   <tr>
+    <td>Güvenilir Sistemi 2</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085429632270398/image.png?ex=667e7be4&is=667d2a64&hm=303fe65303d7df097a1a385e735e3eb2e0e0f1213e4cfeb4b0e064a65427ff06&=&format=webp&quality=lossless&width=471&height=212" alt="ai" style="max-width: 100%;"></td>
+  </tr>
+    <tr>
+    <td>Rol Alma Paneli</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085444736094268/image.png?ex=667e7be8&is=667d2a68&hm=f5b0359b0f5cb3d2c3d84e651e1e4ee1642ccb1e6eb42594d70ce53b97ef113d&=&format=webp&quality=lossless&width=848&height=276" alt="ai" style="max-width: 100%;"></td>
+  </tr>
 </table>
 
 
