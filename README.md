@@ -34,7 +34,7 @@
   </tr>
    <tr>
     <td>Kısayol Yardım Sistemi</td>
-    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085428005011498/image.png?ex=667e7be4&is=667d2a64&hm=69102acfe95a37d7b6dae1a76c8a01a339f5c5a3a91a84557b8a99e31dfe9eaa&=&format=webp&quality=lossless&width=604&height=175" alt="ai" style="max-width: 100%;"></td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1255085428005011498/image.png?ex=667e7be4&is=667d2a64&hm=69102acfe95a37d7b6dae1a76c8a01a339f5c5a3a91a84557b8a99e31dfe9eaa&" alt="ai" style="max-width: 100%;"></td>
   </tr>
   <tr>
     <td>Kullanıcı Panel Sistemi</td>
