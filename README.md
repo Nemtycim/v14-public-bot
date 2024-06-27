@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>Kurulum Sistemi</td>
-    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085427551899729/image.png?ex=667e7be4&is=667d2a64&hm=3dc5d782c92694e0373d88ac2d242e11ed6458b791faf59a69784205f7650300&=&format=webp&quality=lossless&width=362&height=192" alt="kurulum" style="max-width: 100%;"></td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085427551899729/image.png?ex=667e7be4&is=667d2a64&hm=3dc5d782c92694e0373d88ac2d242e11ed6458b791faf59a69784205f7650300&=&format=webp&quality=lossless&width=800&height=800" alt="kurulum" style="max-width: 100%;"></td>
   </tr>
   <tr>
     <td>Yapay Zeka Kayıt Sistemi (Kullanıcının Sunuculardaki Verilerini Çeker)</td>
