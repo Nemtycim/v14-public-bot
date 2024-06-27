@@ -8,10 +8,10 @@
 > ## Lisans Bilgisi
 > **` GNU GENERAL PUBLIC LICENSE (GPL-3.0) `** ile lisanslanmıştır!
  
-> [!TIP]
-> ## Proje İle Alakalı Görseller
-> <details>
-> <summary>Developer Sistem Görselleri</summary>
+# 📸 Görseller
+
+<details>
+<summary>Developer Sistem Görselleri</summary>
  <table>
   <thead>
     <th>Komut & Sistem</th>
