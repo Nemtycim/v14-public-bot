@@ -69,6 +69,7 @@
     <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085444736094268/image.png?ex=667e7be8&is=667d2a68&hm=f5b0359b0f5cb3d2c3d84e651e1e4ee1642ccb1e6eb42594d70ce53b97ef113d&=&format=webp&quality=lossless&width=848&height=276" alt="ai" style="max-width: 100%;"></td>
   </tr>
 </table>
+</details>
 
 <details>
 <summary>Statistic Sistemleri</summary>
