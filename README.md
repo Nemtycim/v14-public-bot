@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td>Kullanıcı Panel Sistemi</td>
-    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085428244090890/image.png?ex=667e7be4&is=667d2a64&hm=7e9eadbdfbcb1f2ad6f12f83cbc3f1a7598a5f6e3e3b609335fc6706443f9d06&=&format=webp&quality=lossless&width=604&height=175" alt="ai" style="max-width: 100%;"></td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1255085428244090890/image.png?ex=667e7be4&is=667d2a64&hm=7e9eadbdfbcb1f2ad6f12f83cbc3f1a7598a5f6e3e3b609335fc6706443f9d06&" alt="ai" style="max-width: 100%;"></td>
   </tr>
   <tr>
     <td>Ceza Panel Sistemi</td>
