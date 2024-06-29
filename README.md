@@ -1,4 +1,4 @@
-# V14 PUBLİC BOT (PM2)
+![image](https://github.com/Nemtycim/v14-public-bot/assets/101521169/a2805ec0-714c-4f99-98b5-df26b2d1ac73)# V14 PUBLİC BOT (PM2)
 
  > [!IMPORTANT]
 > ## Ufak Bilgilendirme
@@ -88,7 +88,8 @@
   </tr>
  <tr>
     <td>Yetkili Sistemi</td>
-    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255090532984815656/image.png?ex=667e80a5&is=667d2f25&hm=9126458188d633bb69b8fe9b14a91e9aed27c94f13efe63ac42862d16eb015a5&=&format=webp&quality=lossless&width=472&height=379" alt="kurulum" style="max-width: 100%;"></td>
+    <td><img src="![image](https://github.com/Nemtycim/v14-public-bot/assets/101521169/3dca6a1e-bf18-47c5-901f-0a039d375a16)
+" alt="kurulum" style="max-width: 100%;"></td>
   </tr>
 </table>
 </details>
