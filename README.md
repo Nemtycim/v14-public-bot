@@ -1,4 +1,4 @@
-![image](https://github.com/Nemtycim/v14-public-bot/assets/101521169/a2805ec0-714c-4f99-98b5-df26b2d1ac73)# V14 PUBLİC BOT (PM2)
+# V14 PUBLİC BOT (PM2)
 
  > [!IMPORTANT]
 > ## Ufak Bilgilendirme
