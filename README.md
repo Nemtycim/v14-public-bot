@@ -88,8 +88,7 @@
   </tr>
  <tr>
     <td>Yetkili Sistemi</td>
-    <td><img src="![image](https://github.com/Nemtycim/v14-public-bot/assets/101521169/3dca6a1e-bf18-47c5-901f-0a039d375a16)
-" alt="kurulum" style="max-width: 100%;"></td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1256525367208968262/image.png?ex=668115f0&is=667fc470&hm=c5354729ec7c3445a6dbb944ac5d492cd15c7c33086cfc2ac3a19e556ee743a8&" alt="kurulum" style="max-width: 100%;"></td>
   </tr>
 </table>
 </details>
