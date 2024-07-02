@@ -73,6 +73,7 @@
 
  
 <summary>Statistic Sistemleri</summary>
+<details>
 <table>
   <tr>
     <th>Sistem İsmi</th>
