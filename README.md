@@ -130,11 +130,11 @@
     <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257722405837733951/image.png?ex=668570c4&is=66841f44&hm=42b7c75ebca5ecadcef3c8bbaadaa43be815fef2f94807b96274bc85bbaf0454&" alt="kurulum" style="max-width: 100%;"></td>
   </tr>
   <tr>
-    <td>İsim Sistemi 1</td>
+    <td>İsim Bilgi Sistemi 1</td>
     <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257722405837733951/image.png?ex=668570c4&is=66841f44&hm=42b7c75ebca5ecadcef3c8bbaadaa43be815fef2f94807b96274bc85bbaf0454&" alt="kurulum" style="max-width: 100%;"></td>
   </tr>
  <tr>
-    <td>İsim Sistemi 2</td>
+    <td>İsim Bilgi Sistemi 2</td>
     <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257723128965107792/image.png?ex=66857171&is=66841ff1&hm=f918d524a87c31e34b2af1c3fb15a407e4957fc0700fa85d445134e2216416a0&" alt="kurulum" style="max-width: 100%;"></td>
   </tr>
 </table>
