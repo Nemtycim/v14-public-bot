@@ -98,7 +98,8 @@
 </table>
 <details>
 
- <details>
+
+<details>
 <summary>Statistic Sistemleri</summary>
 <table>
   <tr>
