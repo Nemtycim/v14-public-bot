@@ -117,3 +117,20 @@
   </tr>
 </table>
 </details>
+
+<details>
+<summary>Kayıt Sistemleri</summary>
+<table>
+  <tr>
+    <th>Sistem İsmi</th>
+    <th>Sistem Resmi</th>
+  </tr>
+  <tr>
+    <td>Kayıt Sistemi</td>
+    <td><img src="![image](https://github.com/Nemtycim/v14-public-bot/assets/101521169/35ad08eb-ff6c-416a-a200-d50fcc3f813a)
+" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+ 
+</table>
+</details>
+
