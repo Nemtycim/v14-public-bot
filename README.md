@@ -96,7 +96,7 @@
     <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1257728338953371718/image.png?ex=6685764b&is=668424cb&hm=0595fd94f6ab7dc6add915f7ecc3f0c0d1950c964735a93c6aafcc3ac84c9ced&=&format=webp&quality=lossless&width=729&height=163" alt="kurulum" style="max-width: 100%;"></td>
   </tr>
 </table>
-<details>
+</details>
 
 
 <details>
@@ -202,3 +202,106 @@
 </table>
 </details>
 
+
+<details>
+<summary>Statistic Sistemleri</summary>
+<table>
+  <tr>
+    <th>Sistem İsmi</th>
+    <th>Sistem Resmi</th>
+  </tr>
+  <tr>
+    <td>Kullanıcı İstatistik Sistemi</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255090532603138129/image.png?ex=667e80a5&is=667d2f25&hm=54d74dfcd1ba7ec72eb4c6994154bc8f0be6ab952d2b789e5688e83120f5328a&=&format=webp&quality=lossless&width=504&height=310" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+ <tr>
+    <td>Rol Stat Bilgi Sistemi</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255090533219434611/image.png?ex=667e80a5&is=667d2f25&hm=d8eac809234b969feedffd09a54712f3f2bcf678174f23fe7e381a6421eaa895&=&format=webp&quality=lossless&width=782&height=142" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+ <tr>
+    <td>Yetkili Sistemi</td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1256525367208968262/image.png?ex=668115f0&is=667fc470&hm=c5354729ec7c3445a6dbb944ac5d492cd15c7c33086cfc2ac3a19e556ee743a8&" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+  <tr>
+    <td>Sorumluluk Verme Sistemi</td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257725396485668926/image.png?ex=6685738d&is=6684220d&hm=9fb4b3afccb098982a17a48b8d96eb32d978eb6f6b3ec4acc2c015cab460b4c7&" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>Kurucu Sistemleri</summary>
+<table>
+  <tr>
+    <th>Sistem İsmi</th>
+    <th>Sistem Resmi</th>
+  </tr>
+  <tr>
+    <td>Kilit Sistemi</td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257725955787587675/image.png?ex=66857413&is=66842293&hm=a469e7f14767ab59610129023f18037e9e6fbb7a2da9e3261fb458e22086b953&" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+  <tr>
+    <td>Kntrol Sistemi</td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257726571129864232/image.png?ex=668574a5&is=66842325&hm=61ab4f1b2ab572dcf4054d30abc30b5404a3bfc2882d6deb78ff89c5c3ea6569&" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+  <tr>
+    <td>Rol Bilgi Sistemi</td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257726713962434572/image.png?ex=668574c8&is=66842348&hm=2dcc138108aefc41da28111c891bfb6df70c717302e4ffa2c36c07ae00a61a87&" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+   <tr>
+    <td>Rol Denetim Sistemi</td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257726911145185320/image.png?ex=668574f7&is=66842377&hm=565245f892020822bee0a5c9aa49dc744c05a68ca717a57021b59b4ba236732c&" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+   <tr>
+    <td>Yetkili Say Sistemi</td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257727375534198835/image.png?ex=66857565&is=668423e5&hm=730935917e56a3ae582fdd5601a7c87415dea305f3b129f1886083d8f7afe911&" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>Yetkili Sistemleri</summary>
+<table>
+  <tr>
+    <th>Sistem İsmi</th>
+    <th>Sistem Resmi</th>
+  </tr>
+  <tr>
+    <td> Snipe Sistemi 1</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255099115981770834/image.png?ex=667e88a3&is=667d3723&hm=9c52223f317b691e92212eab5eeecfc420bbffce3a3dc8636afdd885638dae22&=&format=webp&quality=lossless&width=469&height=258" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+ <tr>
+    <td>Snipe Sistemi 2</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255099116225302589/image.png?ex=667e88a3&is=667d3723&hm=96598fe71d14ab84e99d2c7086d91bb5f14c8dbd1b340aaf1e8c15bcdddd165d&=&format=webp&quality=lossless&width=468&height=166" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+ <tr>
+    <td>Sunucu İstatiği Sistemi</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255099116464111666/image.png?ex=667e88a3&is=667d3723&hm=ace702c638c703a1ecd5d9137a7fbf0bb47d607f9adcdee189c92b9fa609bfba&=&format=webp&quality=lossless&width=575&height=137" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+  <td>Kullanıcı Kanal Bilgisi</td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255099116669636658/image.png?ex=667e88a4&is=667d3724&hm=947bbfd631e4d356dd92aa0806317935f4a133001bf19f7eef8fd51ed731a896&=&format=webp&quality=lossless&width=468&height=164" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>Kayıt Sistemleri</summary>
+<table>
+  <tr>
+    <th>Sistem İsmi</th>
+    <th>Sistem Resmi</th>
+  </tr>
+  <tr>
+    <td>Kayıt Sistemi</td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257722405837733951/image.png?ex=668570c4&is=66841f44&hm=42b7c75ebca5ecadcef3c8bbaadaa43be815fef2f94807b96274bc85bbaf0454&" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+  <tr>
+    <td>İsim Bilgi Sistemi 1</td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257722405837733951/image.png?ex=668570c4&is=66841f44&hm=42b7c75ebca5ecadcef3c8bbaadaa43be815fef2f94807b96274bc85bbaf0454&" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+ <tr>
+    <td>İsim Bilgi Sistemi 2</td>
+    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257723128965107792/image.png?ex=66857171&is=66841ff1&hm=f918d524a87c31e34b2af1c3fb15a407e4957fc0700fa85d445134e2216416a0&" alt="kurulum" style="max-width: 100%;"></td>
+  </tr>
+</table>
+</details>
