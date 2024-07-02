@@ -73,32 +73,6 @@
 
 
 <details>
-<summary>Moderasyon Sistemleri</summary>
- <table>
-  <tr>
-    <th>Sistem İsmi</th>
-    <th>Sistem Resmi</th>
-  </tr>
-  <tr>
-    <td>Kullanıcı İstatistik Sistemi</td>
-    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255090532603138129/image.png?ex=667e80a5&is=667d2f25&hm=54d74dfcd1ba7ec72eb4c6994154bc8f0be6ab952d2b789e5688e83120f5328a&=&format=webp&quality=lossless&width=504&height=310" alt="kurulum" style="max-width: 100%;"></td>
-  </tr>
- <tr>
-    <td>Rol Stat Bilgi Sistemi</td>
-    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255090533219434611/image.png?ex=667e80a5&is=667d2f25&hm=d8eac809234b969feedffd09a54712f3f2bcf678174f23fe7e381a6421eaa895&=&format=webp&quality=lossless&width=782&height=142" alt="kurulum" style="max-width: 100%;"></td>
-  </tr>
- <tr>
-    <td>Yetkili Sistemi</td>
-    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1256525367208968262/image.png?ex=668115f0&is=667fc470&hm=c5354729ec7c3445a6dbb944ac5d492cd15c7c33086cfc2ac3a19e556ee743a8&" alt="kurulum" style="max-width: 100%;"></td>
-  </tr>
-  <tr>
-    <td>Sorumluluk Verme Sistemi</td>
-    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257725396485668926/image.png?ex=6685738d&is=6684220d&hm=9fb4b3afccb098982a17a48b8d96eb32d978eb6f6b3ec4acc2c015cab460b4c7&" alt="kurulum" style="max-width: 100%;"></td>
-  </tr>
-</table>
-</details>
-
-<details>
 <summary>Kurucu Sistemleri</summary>
 <table>
   <tr>
