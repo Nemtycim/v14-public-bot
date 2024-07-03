@@ -73,7 +73,7 @@
 
 
 <details>
-<summary>Kurucu Sistemleri</summary>
+<summary>Moderasyon Sistemleri</summary>
 <table>
   <tr>
     <th>Sistem İsmi</th>
