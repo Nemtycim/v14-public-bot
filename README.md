@@ -1,4 +1,4 @@
-# V14 PUBLİC BOT (PM2)
+![image](https://github.com/Nemtycim/v14-public-bot/assets/101521169/d70041fa-a8c2-473e-8235-8da86acd8b6e)# V14 PUBLİC BOT (PM2)
 
  > [!IMPORTANT]
 > ## Ufak Bilgilendirme
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <td>İsim Bilgi Sistemi 1</td>
-    <td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1257722405837733951/image.png?ex=668570c4&is=66841f44&hm=42b7c75ebca5ecadcef3c8bbaadaa43be815fef2f94807b96274bc85bbaf0454&" alt="kurulum" style="max-width: 100%;"></td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1257722626139230306/image.png?ex=66876b39&is=668619b9&hm=d88cc60c7bc983d8f17e57d1f5b888bcb2da6fc50ade017cdf1d08ff5437a6e5&=&format=webp&quality=lossless&width=516&height=195" alt="kurulum" style="max-width: 100%;"></td>
   </tr>
  <tr>
     <td>İsim Bilgi Sistemi 2</td>
