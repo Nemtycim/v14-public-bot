@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td>Ceza Panel Sistemi</td>
-    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085428491681812/image.png?ex=667e7be4&is=667d2a64&hm=c87503c475eb2c9d05404ce54b930d24044bcf6a938acdfc9fbbfe582d01659e&=&format=webp&quality=lossless&width=604&height=175" alt="ai" style="max-width: 100%;"></td>
+    <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1255085428491681812/image.png?ex=66870da4&is=6685bc24&hm=c691f502b018f849b52307a8cf7dcb40baa67eaf67ededdc73b4c93fff761a27&=&format=webp&quality=lossless&width=772&height=101" alt="ai" style="max-width: 100%;"></td>
   </tr>
   <tr>
     <td>Kısayol Bot Düzenleme Sistemi</td>
