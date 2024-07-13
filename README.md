@@ -41,6 +41,14 @@
  <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773680849981581/Secret.Room.Panel.png?ex=66942dd0&is=6692dc50&hm=b049df61d1119b9869d49cefa1ea4aa24de478508217c5debf5201c7adeea083&=&format=webp&quality=lossless&width=757&height=300" style="max-width: 100%;"></td>
 <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773680510374039/Other.Guild.Names.Command.png?ex=66942dd0&is=6692dc50&hm=e6938de86098cbd98fa83c2267f37d9a185971798778441dd756065b3c655379&=&format=webp&quality=lossless&width=634&height=461" style="max-width: 100%;"></td>
 <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773680090812426/User.Names.Command.png?ex=66942dcf&is=6692dc4f&hm=bfbb7a2ec1adcf14ecede531fc6f2f2b54edaae4cb2da8e219c82ba76228fc5c&=&format=webp&quality=lossless&width=555&height=174" style="max-width: 100%;"></td>
+<tr>
+  <th>Kullanıcı Stat Bilgisi</th>
+  <th>Yetkili Stat Bilgisi 1</th>
+  <th>Yetkili Stat Bilgisi 2</th>
+ </tr>
+  <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773648390393866/Member.Stat.Command.png?ex=66942dc8&is=6692dc48&hm=057fd6b77cd0798aec622bf5736464a3834f51b9c0160147e219eeedab3e6d06&=&format=webp&quality=lossless&width=553&height=662" style="max-width: 100%;"></td>
+<td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773648075690055/Member.Staff.Command.Page1.png?ex=66942dc8&is=6692dc48&hm=b8a86044462d89697409d3f38af9a5638cadbcb7fc541be7cab4c92926f9f49a&=&format=webp&quality=lossless&width=564&height=451" style="max-width: 100%;"></td>
+<td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773647300006020/Member.Staff.Command.Page2.png?ex=66942dc8&is=6692dc48&hm=2ffec6903d373e952af4499957cac5f48cd7959053ee947d02e1b93d63cd4238&=&format=webp&quality=lossless&width=634&height=414" style="max-width: 100%;"></td>
  </tbody>
 </table>
 
