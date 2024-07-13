@@ -26,10 +26,13 @@
  <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773682053873766/Bot.Settings.Command.png?ex=66942dd0&is=6692dc50&hm=fb94084d52705cbc8902ead3ce1bbca8638bd917e90926521e78c13b7882c6ef&=&format=webp&quality=lossless&width=526&height=230" style="max-width: 100%;"></td>
  <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773681798152192/Ai.System.Command.png?ex=66942dd0&is=6692dc50&hm=110e29faf51e7eb9a62b2423c9b5465c3c057cbab7ff3d5453e51e4e9227b99e&=&format=webp&quality=lossless&width=965&height=249" style="max-width: 100%;"></td>
 <tr>
-  <th>Sunucu Kurulum</th>
-  <th>Bot Ayar</th>
-  <th>Ai Sistem Kayıt</th>
+  <th>Kullanıcı Panel</th>
+  <th>Kısayol Panel</th>
+  <th>Ceza Panel</th>
  </tr>
+  <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773681550692434/User.Button.Command.png?ex=66942dd0&is=6692dc50&hm=2d2a9c7026b085e41fbb0f7dec30d7aa539fd067ab728cf48ed60bd4e726af7f&=&format=webp&quality=lossless&width=647&height=466" style="max-width: 100%;"></td>
+<td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773681324064828/ShortCut.Command.png?ex=66942dd0&is=6692dc50&hm=b3dfad0fde147ab82359538ad4e030baa09e279fe2d88898342e22e22bb11bc3&=&format=webp&quality=lossless&width=728&height=113" style="max-width: 100%;"></td>
+<td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773681114353704/Punitive.Panel.Command.png?ex=66942dd0&is=6692dc50&hm=233d0a5303113952ad1b41f082a1d14460da3604e59e9c76b8b4949016479826&=&format=webp&quality=lossless&width=1123&height=147" style="max-width: 100%;"></td>
  </tbody>
 </table>
 
