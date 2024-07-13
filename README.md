@@ -15,7 +15,14 @@
 
 
 # 📸 Görseller
-
+<table>
+ <tr>
+  <th>Setup Command</th>
+ </tr>
+ <tbody>
+  <td><img src="/Nemtycim/v14-public-bot/raw/main/resimler/Guild.Setup.Command.png" style="max-width: 100%;"></td>
+ </tbody>
+</table>
 
 
 
