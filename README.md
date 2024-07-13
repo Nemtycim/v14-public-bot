@@ -20,8 +20,7 @@
   <th>Setup Command</th>
  </tr>
  <tbody>
-  <td><img src="![image](https://github.com/user-attachments/assets/d548494d-0dd1-4e66-8c56-a53d43416ddf)
-" style="max-width: 100%;"></td>
+  <td><img src="![image](https://github.com/user-attachments/assets/d548494d-0dd1-4e66-8c56-a53d43416ddf)" style="max-width: 100%;"></td>
  </tbody>
 </table>
 
