@@ -20,7 +20,7 @@
   <th>Setup Command</th>
  </tr>
  <tbody>
-  <td><img src="![image](https://github.com/user-attachments/assets/d548494d-0dd1-4e66-8c56-a53d43416ddf)" style="max-width: 100%;"></td>
+  <td><img src="https://media.discordapp.net/attachments/1163892206520770700/1261773682351804577/Guild.Setup.Command.png?ex=66942dd0&is=6692dc50&hm=66252ca9b687fb6e4ad634c9c88a0880c837a0b4bcedd7265ee805090db95f1d&=&format=webp&quality=lossless&width=522&height=237" style="max-width: 100%;"></td>
  </tbody>
 </table>
 
