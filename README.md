@@ -15,6 +15,9 @@
 
 
 # 📸 Görseller
+> [!WARNING]
+> Bot deneme sunucumda denediğim sslerdir.
+
 <table>
  <tr>
   <th>Sunucu Kurulum</th>
